@@ -8,3 +8,7 @@
 # What i will be focusing on?
 
 ## Systems, Tools used, Interaction with people (for the best communication, both before and after the event)
+
+# And what made me think that writing all of these could impress HRs?
+
+## maybe they would want some kind of "personal improvements" or something like that? (please give me referrals as soon as i graduated)
