@@ -21,7 +21,7 @@ Instead of remembering everything, I build systems that remember for me.
 
 ---
 
-## Repository Structure
+## Repository Structure (continuous updates...)
 
 ```
 engineering-os/
